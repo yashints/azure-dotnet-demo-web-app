@@ -1,4 +1,5 @@
 # azure-dotnet-demo-web-app
+**Create Test Dot.Net App**
 
 install dotnetsdk for dotnetcore 
 https://dotnet.microsoft.com/download
@@ -22,6 +23,9 @@ now see publish folder has been created.
 
 copy all the above folder files including publish folder to new github repository
 
+**Or you can use the below test app which already available in github**
+
+https://github.com/cloudnloud/azure-dotnet-demo-web-app
 
 now go to portal.azure.com --> go to your web app --> go to deployment center  --> deploy the demo app using the belw link.
 
